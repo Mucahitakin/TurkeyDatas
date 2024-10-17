@@ -5,7 +5,7 @@ I am sharing json file containing Turkey province district district neighborhood
 
 ## In the city json file 
 ```
-City n me : 
+City name : 
 City id : 
 ```
 ## In district json file
