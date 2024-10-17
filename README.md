@@ -5,19 +5,19 @@ I am sharing json file containing Turkey province district district neighborhood
 
 ## In the city json file 
 ```
-City name : 
-City id : 
+City Name : 
+City Id : 
 ```
 ## In district json file
 ```
 District Name : 
-City id :
-District id :
+City Id :
+District Id :
 ```
 
 ## Neighborhood in json file
 ```
-Neighborhood id :
-Neighborhood id :
-District id :
+Neighborhood Id :
+Neighborhood Name :
+District Id :
 ```
